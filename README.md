@@ -1,4 +1,5 @@
 OASIS INFOBYTE WEB DEVELOPMENT INTERNSHIP
+
   During my internship, I have assinged with 3 tasks. 
   
   TASK 1: TO DEVELOPE A CALCULATOR USING HTML, CSS AND JS. 
